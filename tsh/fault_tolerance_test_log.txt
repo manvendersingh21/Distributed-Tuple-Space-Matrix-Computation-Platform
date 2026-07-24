@@ -1,0 +1,262 @@
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 3663522: Finished block (0, 1)
+Worker 3663522: Finished block (1, 1)
+Worker 3663522: Finished block (2, 1)
+Worker 3663522: Finished block (3, 1)
+Worker 3663522 finished all assigned blocks.
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 3663521: Finished block (0, 0)
+Worker 3663521: Finished block (1, 0)
+Worker 3663521: Finished block (2, 0)
+Worker 3663521: Finished block (3, 0)
+Worker 3663521 finished all assigned blocks.
+[parent] worker PID 3663522 (idx=1) died, respawning
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 2 created with PID 3663523
+Worker 3663524: Finished block (0, 3)
+Worker 3663524: Finished block (1, 3)
+Worker 3663524: Finished block (2, 3)
+Worker 3663524: Finished block (3, 3)
+Worker 3663524 finished all assigned blocks.
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 3663523: Finished block (0, 2)
+Worker 3663523: Finished block (1, 2)
+Worker 3663523: Finished block (2, 2)
+Worker 3663523: Finished block (3, 2)
+Worker 3663523 finished all assigned blocks.
+[parent] worker PID 3663521 (idx=0) died, respawning
+[parent] worker PID 3663523 (idx=2) died, respawning
+[parent] worker PID 3663524 (idx=3) died, respawning
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 2 created with PID 3663523
+Worker 3 created with PID 3663524
+Result C:
+ 240  276  312  348  384  420  456  492 
+ 284  328  372  416  460  504  548  592 
+ 328  380  432  484  536  588  640  692 
+ 372  432  492  552  612  672  732  792 
+ 416  484  552  620  688  756  824  892 
+ 460  536  612  688  764  840  916  992 
+ 504  588  672  756  840  924 1008 1092 
+ 548  640  732  824  916 1008 1100 1192 
+
+Total elapsed time: 13883929.252 seconds
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 2 created with PID 3663523
+Worker 3 created with PID 3663524
+Worker 3663526: Finished block (0, 1)
+Worker 3663526: Finished block (1, 1)
+Worker 3663526: Finished block (2, 1)
+Worker 3663526: Finished block (3, 1)
+Worker 3663526 finished all assigned blocks.
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 2 created with PID 3663523
+Worker 3 created with PID 3663524
+Worker 3663527: Finished block (0, 0)
+Worker 3663527: Finished block (1, 0)
+Worker 3663527: Finished block (2, 0)
+Worker 3663527: Finished block (3, 0)
+Worker 3663527 finished all assigned blocks.
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 2 created with PID 3663523
+Worker 3 created with PID 3663524
+Worker 3663528: Finished block (0, 2)
+Worker 3663528: Finished block (1, 2)
+Worker 3663528: Finished block (2, 2)
+Worker 3663528: Finished block (3, 2)
+Worker 3663528 finished all assigned blocks.
+Matrix A (size 8):
+   1    2    3    4    5    6    7    8 
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+
+Matrix B (size 8):
+   2    3    4    5    6    7    8    9 
+   3    4    5    6    7    8    9   10 
+   4    5    6    7    8    9   10   11 
+   5    6    7    8    9   10   11   12 
+   6    7    8    9   10   11   12   13 
+   7    8    9   10   11   12   13   14 
+   8    9   10   11   12   13   14   15 
+   9   10   11   12   13   14   15   16 
+
+Worker 0 created with PID 3663521
+Worker 1 created with PID 3663522
+Worker 2 created with PID 3663523
+Worker 3 created with PID 3663524
+Worker 3663529: Finished block (0, 3)
+Worker 3663529: Finished block (1, 3)
+Worker 3663529: Finished block (2, 3)
+Worker 3663529: Finished block (3, 3)
+Worker 3663529 finished all assigned blocks.
+Error: No worker processes found.
